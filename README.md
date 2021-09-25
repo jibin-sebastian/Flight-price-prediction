@@ -93,10 +93,13 @@ Root Mean Squared Error: 2039.027454008712
 
 In this step, I built a flask API endpoint that was hosted on a local webserver. The API endpoint takes in a request with a list of values from a flight and returns an estimated price.
 
+Deploy the model on AWS : http://ec2-18-216-113-130.us-east-2.compute.amazonaws.com:8080/
+
 # UI
 
 ![image](https://user-images.githubusercontent.com/84179246/133458342-31d45e98-bbbd-4e6d-909e-c1f36799398c.png)
-![image](https://user-images.githubusercontent.com/84179246/133468298-34d33672-6f46-4976-a839-cac4ce0dfeb8.png)
+![image](https://user-images.githubusercontent.com/84179246/134751261-743c1e30-8a4e-468e-a3ea-266ecdc28f6b.png)
+
 
 
 
