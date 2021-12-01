@@ -101,5 +101,9 @@ Deploy the model on AWS : http://ec2-3-17-66-242.us-east-2.compute.amazonaws.com
 ![image](https://user-images.githubusercontent.com/84179246/134751261-743c1e30-8a4e-468e-a3ea-266ecdc28f6b.png)
 
 
+# Area of improvement:
 
+Re work on UI part
+List the source and destination (bug fix). Destination and source should not be the same.
+Improve the ML model with more accuracy
 
